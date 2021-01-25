@@ -23,7 +23,18 @@ These codes are implementations of SRGAN
   Evaluate the model
 
 ## Requirement
-
+```
+Python == 3.8.5
+torch == 1.7.1+cu110
+CUDA version == 11.2
+Driver version 460.32.03
+torchvison
+matplotlib
+tqdm
+PIL
+skimage
+pandas
+```
 
 
 ## Usage
