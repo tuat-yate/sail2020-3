@@ -1,5 +1,5 @@
 # SAIL2020-3
-
+![SRGAN](https://github.com/tuat-yate/sail2020-3/out.jpg)
 This repository has the code created in "Frontiers in Electrical Engineering and Computer Science: Experiments III"
 
 These codes are implementations of SRGAN
